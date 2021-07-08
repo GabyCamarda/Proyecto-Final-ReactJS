@@ -1,0 +1,12 @@
+.Footer{
+    display:flex;
+    justify-content: center;
+    background-color:rgb(251, 0, 0);
+    align-items:center;
+    min-height: 20vh;
+    width:100%;
+}
+
+footer h3 {
+    color: orangered;
+}

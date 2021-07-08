@@ -1,0 +1,25 @@
+.Navigation{
+
+    display:flex;
+    background-color: #000;
+    min-height: 5vh;
+    list-style-type: none;    
+    font-size: 20px;
+
+}
+
+.ul {
+    
+    justify-content:left;
+}
+
+.Link {
+    color: white;
+    list-style-type: none;
+    margin: 10px;
+}
+.Items {
+    
+    color: rgb(102, 77, 192);
+    margin: 10px;
+}
